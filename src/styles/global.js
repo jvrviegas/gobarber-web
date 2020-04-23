@@ -4,7 +4,6 @@ import 'react-perfect-scrollbar/dist/css/styles.css';
 import 'react-toastify/dist/ReactToastify.css';
 
 export default createGlobalStyle`
-  @import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
 
   * {
     margin: 0;
@@ -22,6 +21,7 @@ export default createGlobalStyle`
   }
 
   body {
+    font-family: 'Roboto';
     -webkit-font-smoothing: antialiased;
   }
 
