@@ -30,10 +30,10 @@
 
 ## 🚀 Instalação e execução
 
-_ps: Antes de executar lembre de iniciar o backend desenvolvido nos módulos 2 e 3_
+_ps: Antes de executar, o [backgend](https://github.com/jvrviegas/gobarber-api) deverá estar instalado e iniciado.
 
 1. Faça um clone desse repositório;
-2. Entre na pasta rodando `cd bootcamp-gostack-09`;
+2. Entre na pasta rodando `cd gobarber-web`;
 3. Rode `yarn` para instalar as dependências;
 4. Rode `yarn start` para iniciar o client.
 
