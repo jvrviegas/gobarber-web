@@ -21,7 +21,6 @@ export default createGlobalStyle`
   }
 
   body {
-    font-family: 'Roboto';
     -webkit-font-smoothing: antialiased;
   }
 
